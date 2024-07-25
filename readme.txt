@@ -1,0 +1,1 @@
+ this app is built on android studio using  java to run it open folder in android studio  and locate app folder and run
